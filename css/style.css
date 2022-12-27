@@ -807,7 +807,7 @@ body.active {
 
 .cta-form-btn:is(:hover, :focus) {
   background: var(--citrine);
-  color: var(--eerie-black);
+  color: var(--white);
 }
 
 /*-----------------------------------*\
